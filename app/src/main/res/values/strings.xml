@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAndroidGZ</string>
+    <string name="input_at_least_2_characters">Input search query at least 2 characters!</string>
+    <string name="search_hint">Input to search image</string>
+</resources>
